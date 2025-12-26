@@ -1,42 +1,31 @@
-# 🚴‍♀️ Bike Sales Dashboard – Excel-Based Visualization
+# Bike Sales Analysis Dashboard | Excel
 
-## 📌 Overview
+![Bike Sales Excel Dashboard](./bike_sales_excel_dashboard.jpeg)
 
-This project showcases a **Bike Sales Dashboard** developed using **Microsoft Excel**. The goal is to provide clear visual insights into bike sales trends, customer demographics, and product performance, enabling data-driven decisions for sales strategy and marketing.
+## Business Problem
+Analyze customer demographics and purchasing behavior to improve
+bike sales performance and marketing decisions.
 
----
+## Dataset
+Customer data including age group, gender, income, education,
+region, commute distance, and bike purchase status.
 
-## 📊 Dashboard Highlights
+## Tools & Skills Used
+• Microsoft Excel  
+• Pivot Tables  
+• Pivot Charts  
+• Slicers & Filters  
+• Data Cleaning  
+• Sales Analytics  
 
-The Excel dashboard presents a visual summary of:
+## Key Insights
+• Middle-aged customers showed highest purchase rates  
+• Higher income groups were more likely to buy bikes  
+• Shorter commute distances correlated with more purchases  
+• Male customers had slightly higher purchase frequency  
 
-- **Total Sales Overview**: Total revenue generated and number of bikes sold
-- **Sales by Region**: Geographic distribution of bike purchases
-- **Customer Demographics**:
-  - **Gender Breakdown**: Male vs. Female buyers
-  - **Age Groups**: Distribution of customers across age ranges
-  - **Income Brackets**: Bike sales across different income levels
-- **Visual Tools Used**: Charts, slicers, pivot tables for interactivity
+## Business Impact
+Helps sales teams identify high-value customer segments and
+optimize sales and marketing strategies.
 
----
-
-## 🛠️ Features
-
-- Interactive slicers for:
-  - **Region**
-  - **Customer Segment**
-- Use of **Excel pivot tables and charts** to dynamically filter and view data
-- Clean layout for **quick executive insights**
-
----
-
-## 📁 File
-
-- `Sanya Bike sales Excel Proj.xlsx`: Contains the complete dashboard 
-
----
-
-## 🚀 Purpose
-
-Ideal for exploring how Excel can be used for **sales analytics**, **customer profiling**, and **data visualization** in business contexts.
 
